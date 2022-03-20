@@ -35,7 +35,6 @@ jobs:
         run: |
             git config --global user.name 'fineanmol'
             git config --global user.email 'anmol.agarwal2004@yhaoo.com'
-            git config pull.rebase true
-            git commit -am "🙊 Workflow Commit."
             git pull
+            git commit -am "🙊 Workflow Commit."
             git push
