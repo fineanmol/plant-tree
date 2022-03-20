@@ -35,6 +35,7 @@ jobs:
         run: |
             git config user.name 'fineanmol'
             git config user.email 'anmol.agarwal2004@yhaoo.com'
-            git pull
+            git reset –hard
             git commit -am "🙊 Workflow Commit."
+            git pull
             git push
