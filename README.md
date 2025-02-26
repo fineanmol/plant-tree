@@ -1,3 +1,3 @@
-🌱 Updated on Wed, 26 Feb 2025 14:47:38 GMT
+🌿 Updated on Wed, 26 Feb 2025 14:49:26 GMT
 
-> "Simplicity is the soul of efficiency."
+> "Before software can be reusable, it first has to be usable."
