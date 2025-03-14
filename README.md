@@ -1,3 +1,3 @@
-🪴 Updated on Fri, 14 Mar 2025 06:07:18 GMT
+🌾 Updated on Fri, 14 Mar 2025 09:34:41 GMT
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "The best error message is the one that never shows up."
