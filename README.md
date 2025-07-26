@@ -1,3 +1,3 @@
-🪴 Updated on Sat, 26 Jul 2025 20:45:10 GMT
+🌳 Updated on Sat, 26 Jul 2025 20:31:45 GMT
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "Truth can only be found in one place: the code."
