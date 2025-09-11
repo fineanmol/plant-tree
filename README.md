@@ -1,3 +1,3 @@
-🌵 Updated on Thu, 11 Sep 2025 12:30:09 GMT
+🌴 Updated on Thu, 11 Sep 2025 18:58:15 GMT
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "Before software can be reusable, it first has to be usable."
