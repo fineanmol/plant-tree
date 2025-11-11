@@ -1,3 +1,3 @@
-🪴 Updated on Mon, 10 Nov 2025 22:45:46 GMT
+🎄 Updated on Tue, 11 Nov 2025 17:24:07 GMT
 
-> "Simplicity is the soul of efficiency."
+> "The best error message is the one that never shows up."
