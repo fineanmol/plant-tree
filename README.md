@@ -1,3 +1,3 @@
-🌵 Updated on Mon, 17 Nov 2025 18:56:48 GMT
+🌿 Updated on Tue, 18 Nov 2025 14:43:36 GMT
 
-> "Any fool can write code that a computer can understand."
+> "Before software can be reusable, it first has to be usable."
