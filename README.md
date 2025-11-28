@@ -1,3 +1,3 @@
-🌵 Updated on Thu, 27 Nov 2025 16:04:01 GMT
+🌵 Updated on Fri, 28 Nov 2025 08:54:23 GMT
 
-> "It works on my machine."
+> "Before software can be reusable, it first has to be usable."
