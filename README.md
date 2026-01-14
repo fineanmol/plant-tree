@@ -1,3 +1,3 @@
-🌲 Updated on Tue, 13 Jan 2026 22:28:21 GMT
+🌴 Updated on Wed, 14 Jan 2026 12:01:38 GMT
 
-> "The best error message is the one that never shows up."
+> "Before software can be reusable, it first has to be usable."
