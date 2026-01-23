@@ -1,3 +1,3 @@
-🎋 Updated on Thu, 22 Jan 2026 19:41:21 GMT
+🪴 Updated on Fri, 23 Jan 2026 06:34:31 GMT
 
-> "Knowledge is power."
+> "The best error message is the one that never shows up."
