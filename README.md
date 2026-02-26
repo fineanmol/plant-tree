@@ -1,3 +1,3 @@
-🌳 Updated on Thu, 26 Feb 2026 13:13:55 GMT
+🌿 Updated on Thu, 26 Feb 2026 18:08:36 GMT
 
-> "The best error message is the one that never shows up."
+> "Truth can only be found in one place: the code."
