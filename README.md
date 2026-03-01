@@ -1,3 +1,3 @@
-🌳 Updated on Sat, 28 Feb 2026 15:23:08 GMT
+🌿 Updated on Sun, 01 Mar 2026 15:00:53 GMT
 
-> "It works on my machine."
+> "The best error message is the one that never shows up."
