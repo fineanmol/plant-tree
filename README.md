@@ -1,3 +1,3 @@
-🍀 Updated on Thu, 28 May 2026 16:35:33 GMT
+🍀 Updated on Fri, 29 May 2026 14:38:42 GMT
 
-> "Experience is the name everyone gives to their mistakes."
+> "Before software can be reusable, it first has to be usable."
