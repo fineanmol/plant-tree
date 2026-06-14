@@ -1,39 +1,51 @@
-# This is a basic workflow to help you get started with Actions
+name: 🌳 Plant Tree
 
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: '10 */6 * * *'
+    # 5 runs per day at varied, irregular times — looks organic
+    - cron: '17 1 * * *'
+    - cron: '43 6 * * *'
+    - cron: '28 11 * * *'
+    - cron: '52 15 * * *'
+    - cron: '9 20 * * *'
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  plant:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '14.x'
+      - uses: actions/checkout@v4
 
-      - name: Update README.md
-        run: node index.js > README.md
-      - name: Commit change & Push
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: Update file & commit
         run: |
-            git config user.name 'fineanmol'
-            git config user.email 'anmol.agarwal2004@yahoo.com'
-            git commit -am "🙊 Workflow Commit."
-            git push
+          node index.js > README.md
+          git config user.name 'fineanmol'
+          git config user.email 'anmol.agarwal2004@yahoo.com'
+          git pull --rebase
+          git add README.md
+          git diff --cached --quiet || git commit -m "$(node -e "
+            const messages = [
+              '🌱 daily update',
+              '🔧 minor fix',
+              '📝 update log',
+              '✨ refresh',
+              '🌳 grow the tree',
+              '🚀 keep going',
+              '💡 small improvement',
+              '📦 routine update',
+              '🎯 stay consistent',
+              '🛠️ housekeeping',
+              '📈 one step at a time',
+              '🌿 green day',
+              '⚡ quick update',
+              '🔄 sync',
+              '💻 coding daily',
+            ];
+            console.log(messages[Math.floor(Math.random() * messages.length)]);
+          ")"
+          git push
