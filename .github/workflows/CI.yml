@@ -3,7 +3,6 @@ name: 🌳 Plant Tree
 on:
   workflow_dispatch:
   schedule:
-    # 5 runs per day at varied, irregular times — looks organic
     - cron: '17 1 * * *'
     - cron: '43 6 * * *'
     - cron: '28 11 * * *'
@@ -26,26 +25,10 @@ jobs:
           node index.js > README.md
           git config user.name 'fineanmol'
           git config user.email 'anmol.agarwal2004@yahoo.com'
-          git pull --rebase
+          # Allow pulling with local changes by stashing them automatically during rebase
+          git pull --rebase --autostash
           git add README.md
-          git diff --cached --quiet || git commit -m "$(node -e "
-            const messages = [
-              '🌱 daily update',
-              '🔧 minor fix',
-              '📝 update log',
-              '✨ refresh',
-              '🌳 grow the tree',
-              '🚀 keep going',
-              '💡 small improvement',
-              '📦 routine update',
-              '🎯 stay consistent',
-              '🛠️ housekeeping',
-              '📈 one step at a time',
-              '🌿 green day',
-              '⚡ quick update',
-              '🔄 sync',
-              '💻 coding daily',
-            ];
-            console.log(messages[Math.floor(Math.random() * messages.length)]);
-          ")"
+          # Use a single-line node -e invocation for the generated commit message to avoid
+          # problems with multiline quoting in the shell.
+          git diff --cached --quiet || git commit -m "$(node -e 'const messages=["🌱 daily update","🔧 minor fix","📝 update log","✨ refresh","🌳 grow the tree","🚀 keep going","💡 small improvement","📦 routine update","🎯 stay consistent","🛠️ housekeeping","📈 one step at a time","🌿 green day","⚡ quick update","🔄 sync","💻 coding daily"];console.log(messages[Math.floor(Math.random()*messages.length)])')"
           git push
