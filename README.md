@@ -1,4 +1,4 @@
-🌾 Updated on Tue, 18 Aug 2026 16:14:01 GMT
+🍀 Updated on Tue, 18 Aug 2026 20:35:22 GMT
 
-> "Truth can only be found in one place: the code."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
