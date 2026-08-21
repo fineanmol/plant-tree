@@ -1,4 +1,4 @@
-🍀 Updated on Fri, 21 Aug 2026 07:28:50 GMT
+🌴 Updated on Fri, 21 Aug 2026 11:49:41 GMT
 
-> "It works on my machine."
+> "The best error message is the one that never shows up."
 
