@@ -1,4 +1,4 @@
-🌳 Updated on Sat, 19 Sep 2026 11:34:16 GMT
+🎋 Updated on Sat, 19 Sep 2026 14:34:33 GMT
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
