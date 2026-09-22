@@ -1,4 +1,4 @@
-🌲 Updated on Mon, 21 Sep 2026 23:13:19 GMT
+🌿 Updated on Tue, 22 Sep 2026 06:11:20 GMT
 
-> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
+> "Before software can be reusable, it first has to be usable."
 
