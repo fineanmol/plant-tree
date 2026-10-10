@@ -1,4 +1,4 @@
-🪴 Updated on Sat, 10 Oct 2026 13:03:55 GMT
+🌲 Updated on Sat, 10 Oct 2026 16:17:52 GMT
 
-> "Truth can only be found in one place: the code."
+> "Before software can be reusable, it first has to be usable."
 
