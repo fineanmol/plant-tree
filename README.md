@@ -1,4 +1,4 @@
-🌳 Updated on Mon, 19 Oct 2026 13:58:07 GMT
+🌳 Updated on Mon, 19 Oct 2026 17:36:41 GMT
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "The best error message is the one that never shows up."
 
