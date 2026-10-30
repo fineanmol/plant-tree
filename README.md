@@ -1,4 +1,4 @@
-🌲 Updated on Thu, 29 Oct 2026 23:54:02 GMT
+🌳 Updated on Fri, 30 Oct 2026 07:03:43 GMT
 
-> "First, solve the problem. Then, write the code."
+> "The best error message is the one that never shows up."
 
