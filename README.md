@@ -1,4 +1,4 @@
-🍀 Updated on Thu, 05 Nov 2026 18:52:10 GMT
+🪴 Updated on Thu, 05 Nov 2026 21:35:53 GMT
 
-> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
+> "The best error message is the one that never shows up."
 
