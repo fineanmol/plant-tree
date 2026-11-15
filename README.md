@@ -1,4 +1,4 @@
-🌳 Updated on Sun, 15 Nov 2026 17:53:22 GMT
+🌱 Updated on Sun, 15 Nov 2026 20:36:15 GMT
 
-> "Make it work, make it right, make it fast."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
