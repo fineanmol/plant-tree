@@ -1,4 +1,4 @@
-🪴 Updated on Mon, 16 Nov 2026 21:07:40 GMT
+🌾 Updated on Mon, 16 Nov 2026 23:52:01 GMT
 
-> "Knowledge is power."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
