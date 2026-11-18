@@ -1,4 +1,4 @@
-🌾 Updated on Wed, 18 Nov 2026 02:21:22 GMT
+🌴 Updated on Wed, 18 Nov 2026 08:29:57 GMT
 
-> "Before software can be reusable, it first has to be usable."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
