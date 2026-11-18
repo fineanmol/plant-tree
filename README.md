@@ -1,4 +1,4 @@
-🎋 Updated on Tue, 17 Nov 2026 23:11:16 GMT
+🌾 Updated on Wed, 18 Nov 2026 02:21:22 GMT
 
-> "It works on my machine."
+> "Before software can be reusable, it first has to be usable."
 
