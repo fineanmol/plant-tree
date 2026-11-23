@@ -1,4 +1,4 @@
-🌱 Updated on Mon, 23 Nov 2026 00:46:52 GMT
+🪴 Updated on Mon, 23 Nov 2026 08:58:08 GMT
 
-> "First, solve the problem. Then, write the code."
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
 
