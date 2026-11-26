@@ -1,4 +1,4 @@
-🌲 Updated on Thu, 26 Nov 2026 09:29:03 GMT
+🌳 Updated on Thu, 26 Nov 2026 17:19:57 GMT
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Code is like humor. When you have to explain it, it's bad."
 
