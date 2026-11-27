@@ -1,4 +1,4 @@
-🎋 Updated on Fri, 27 Nov 2026 09:38:32 GMT
+🌿 Updated on Fri, 27 Nov 2026 16:59:18 GMT
 
-> "First, solve the problem. Then, write the code."
+> "Before software can be reusable, it first has to be usable."
 
